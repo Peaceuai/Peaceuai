@@ -4,10 +4,5 @@
 <h3 align="left">Tools:</h3>
 <p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/> </a> <a> Mysql </a> &nbsp &nbsp <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="20" height="20"/> </a> <a> Redis </a> &nbsp &nbsp <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="20" height="20"/> <a> Docker </a> &nbsp &nbsp <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="20" height="20"/> </a> <a> Jenkins </a> &nbsp &nbsp <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/> <a> Linux </a> &nbsp &nbsp <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="20" height="20"/> </a> <a> Postman </a> </p>
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Peaceuai&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-<p align="left"> :trophy: <a> Github Profile Trophy </a> </p>
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=Peaceuai&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
