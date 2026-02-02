@@ -27,4 +27,4 @@
 
 <p align="left"> :trophy: <a> Github Profile Trophy </a> </p>
   
-[![trophy](https://github-profile-trophy-tawny.vercel.app?username=Peaceuai)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://trophy.ryglcloud.net/?username=Peaceuai)](https://github.com/ryo-ma/github-profile-trophy)
