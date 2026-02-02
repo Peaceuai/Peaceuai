@@ -22,4 +22,3 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="20" height="20"/> </a> <a> Postman </a>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Peaceuai&show_icons=true&theme=radical&line_height=20&card_width=60&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
