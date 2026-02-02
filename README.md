@@ -22,5 +22,5 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="20" height="20"/> </a> <a> Postman </a>
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Peaceuai)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Peaceuai)](https://git.io/streak-stats)
 
