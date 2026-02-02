@@ -29,9 +29,3 @@
 
 [![trophy](https://trophy.ryglcloud.net/?username=Peaceuai)](https://github.com/ryo-ma/github-profile-trophy)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Peaceuai&repo=A-Fine-Tuning-Framework-for-Inducing-Consistency-Personality-based-on-CharacterGLM" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Peaceuai&repo=A-Fine-Tuning-Framework-for-Inducing-Consistency-Personality-based-on-CharacterGLM" />
-</a>
