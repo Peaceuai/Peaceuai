@@ -26,5 +26,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Peaceuai&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left"> :trophy: <a> Github Profile Trophy </a> </p>
+
 [![trophy](https://trophy.ryglcloud.net/?username=Peaceuai)](https://github.com/ryo-ma/github-profile-trophy)
 
