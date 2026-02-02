@@ -22,4 +22,5 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="20" height="20"/> </a> <a> Postman </a>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Peaceuai)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Peaceuai)](https://git.io/streak-stats)
+
