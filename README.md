@@ -1,4 +1,4 @@
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&separator=%3C&lines=Analyst+Programmer%3CSystem.out.println(%22Hello+World%22);" alt="Typing SVG" /></p>
 
 <h3 align="left">Languages:</h3>
 <p align="left">
