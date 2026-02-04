@@ -12,6 +12,13 @@
   <img src="https://komarev.com/ghpvc/?username=Peaceuai&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
 </p>
 
+<!-- 个人简介 -->
+- 👋 Hi, I'm @Peaceuai-github
+- 👀 I'm interest in Java, Python, HTML5, CSS, JavaScript, Spring, MyBatis, MySQL, Oracle, Redis, Linux, etc.
+- 🌱 I'm currently learning Oracle, AI, OceanBase.
+- 💞️ I'm looking for partners in open-source code.
+- 📫 How to reach me? Email: jimpeaceuai@gmail.com
+
 <h3 align="left">Languages:</h3>
 <p align="left">
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20" height="20"/> </a> <a> Java </a> &nbsp &nbsp
