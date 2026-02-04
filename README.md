@@ -31,4 +31,3 @@
 
 [![trophy](https://trophy.ryglcloud.net/?username=Peaceuai)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Harlok's WakaTime stats](https://github-readme-stats-ochre-theta.vercel.app/api/wakatime?username=Peaceuai)](https://github.com/anuraghazra/github-readme-stats)
