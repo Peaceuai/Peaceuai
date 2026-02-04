@@ -20,7 +20,7 @@
 - 💞️ I'm looking for partners in open-source code.
 - 📫 How to reach me? Email: jimpeaceuai@gmail.com
 
-<h3 align="left">Languages:</h3>
+<h2 align="left">Languages:</h2>
 <p align="left">
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20" height="20"/> </a> <a> Java </a> &nbsp &nbsp
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> </a> <a> Python </a>&nbsp &nbsp 
