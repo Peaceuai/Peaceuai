@@ -2,15 +2,15 @@
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&height=30&separator=%3C&lines=System.out.println(%22Hello+World%22);" alt="Typing SVG" /></p>
 <p align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /></p>
 
-<p align="center">
-  <a href=""><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
+
+  <p align="center"><a href=""><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;</p>
   <a href=""><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
   <a href=""><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
   <a href=""><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
   <a href="/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
   <!-- visitor -->
   <img src="https://komarev.com/ghpvc/?username=Peaceuai&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
-</p>
+
 
 <h3 align="left">Languages:</h3>
 <p align="left">
