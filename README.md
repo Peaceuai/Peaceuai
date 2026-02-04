@@ -5,7 +5,7 @@
 <p align="center">
   <a href=""><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
   <a href="https://www.youtube.com/@peaceuai"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
-  <a href="https://blog.csdn.net/Peaceuai"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
+  <a href="https://blog.csdn.net/Peaceuai"><img src="https://img.shields.io/badge/CSDN-博客-ff751a" /></a>&emsp;
   <a href=""><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
   <a href="https://space.bilibili.com/43554686"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
   <!-- visitor -->
