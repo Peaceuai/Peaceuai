@@ -25,7 +25,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats-ochre-theta.vercel.app/api?username=Peaceuai&show_icons=true&theme=radical&line_height=20&card_width=60)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats-ochre-theta.vercel.app/api/top-langs/?username=Peaceuai&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="left"> :trophy: <a> Github Profile Trophy </a> </p>
+<h3 align="left"> :trophy: <a> Github Profile Trophy </a> </h3>
 
 [![trophy](https://trophy.ryglcloud.net/?username=Peaceuai)](https://github.com/ryo-ma/github-profile-trophy)
 
