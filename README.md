@@ -1,6 +1,6 @@
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&height=30&lines=Analyst+Programmer" alt="Typing SVG" /></p>
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&height=30&separator=%3C&lines=System.out.println(%22Hello+World%22);" alt="Typing SVG" /></p>
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /></p>
 
 <h3 align="left">Languages:</h3>
 <p align="left">
