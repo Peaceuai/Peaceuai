@@ -1,4 +1,5 @@
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Analyst+Programmer" alt="Typing SVG" /></p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=System.out.println("Hello World");" alt="Typing SVG" /></p>
 
 <h3 align="left">Languages:</h3>
 <p align="left">
