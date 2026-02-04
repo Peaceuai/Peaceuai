@@ -9,7 +9,7 @@
   <a href=""><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
   <a href="https://space.bilibili.com/43554686"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
   <!-- visitor -->
-  <img src="https://komarev.com/ghpvc/?username=Peaceuai&label=Views&color=ff751a&style=flat" alt="访问量统计" />&emsp;
+  <img src="https://komarev.com/ghpvc/?username=Peaceuai&label=Views&color=#ff751a&style=flat" alt="访问量统计" />&emsp;
 </p>
 
 ## Hi! Nice to meet you!
