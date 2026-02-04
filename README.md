@@ -45,3 +45,6 @@
 
 [![trophy](https://trophy.ryglcloud.net/?username=Peaceuai)](https://github.com/ryo-ma/github-profile-trophy)
 
+<p align = "center">
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Peaceuai&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+</p>
