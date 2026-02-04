@@ -20,7 +20,7 @@
 - 💞️ I'm looking for partners in open-source code.
 - 📫 How to reach me? Email: jimpeaceuai@gmail.com
 
-<h2 align="left">Languages:</h2>
+<h3 align="left">Languages:</h3>
 <p align="left">
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20" height="20"/> </a> <a> Java </a> &nbsp &nbsp
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> </a> <a> Python </a>&nbsp &nbsp 
@@ -29,7 +29,7 @@
 <a href="https://262.ecma-international.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> </a> <a> JavaScript </a>&nbsp &nbsp
 </p>
 
-<h2 align="left">Tools:</h2>
+<h3 align="left">Tools:</h3>
 <p align="left">
 <a href="https://spring.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring" width="20" height="20"/> </a> <a> Spring </a>&nbsp &nbsp 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/> </a> <a> MySQL </a>&nbsp &nbsp 
@@ -44,12 +44,11 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="20" height="20"/> </a> <a> Postman </a>
 </p>
 
-<h2 align="left"> :computer:  Github Stats  </h2>
+<h3 align="left"> :computer:  Github Stats  </h3>
 
 [![Anurag's GitHub stats](https://github-readme-stats-ochre-theta.vercel.app/api?username=Peaceuai&show_icons=true&theme=radical&line_height=20&card_width=60)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats-ochre-theta.vercel.app/api/top-langs/?username=Peaceuai&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<h2 align="left"> :trophy:  Github Profile Trophy  </h2>
+<h3 align="left"> :trophy:  Github Profile Trophy  </h3>
 
 [![trophy](https://trophy.ryglcloud.net/?username=Peaceuai)](https://github.com/ryo-ma/github-profile-trophy)
-
