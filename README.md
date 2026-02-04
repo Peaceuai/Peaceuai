@@ -12,7 +12,8 @@
   <img src="https://komarev.com/ghpvc/?username=Peaceuai&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
 </p>
 
-<!-- 个人简介 -->
+## Hi! Nice to meet you!
+
 - 👋 Hi, I'm @Peaceuai-github
 - 👀 I'm interest in Java, Python, HTML5, CSS, JavaScript, Spring, MyBatis, MySQL, Oracle, Redis, Linux, etc.
 - 🌱 I'm currently learning Oracle, AI, OceanBase.
