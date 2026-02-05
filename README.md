@@ -20,7 +20,7 @@
 - 💞️ I'm looking for partners in open-source code.
 - 📫 How to reach me? Email: jimpeaceuai@gmail.com
 
-<h3 align="left">Languages:</h3>
+<h3 align="left">Languages</h3>
 <p align="left">
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20" height="20"/> </a> <a> Java </a> &nbsp &nbsp
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> </a> <a> Python </a>&nbsp &nbsp 
@@ -29,7 +29,7 @@
 <a href="https://262.ecma-international.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> </a> <a> JavaScript </a>&nbsp &nbsp
 </p>
 
-<h3 align="left">Tools:</h3>
+<h3 align="left">Tools</h3>
 <p align="left">
 <a href="https://spring.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring" width="20" height="20"/> </a> <a> Spring </a>&nbsp &nbsp 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/> </a> <a> MySQL </a>&nbsp &nbsp 
