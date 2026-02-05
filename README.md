@@ -47,3 +47,5 @@
 <h3 align="left"> :trophy:  Github Profile Trophy  </h3>
 
 [![trophy](https://trophy.ryglcloud.net/?username=Peaceuai)](https://github.com/ryo-ma/github-profile-trophy)
+
+![HuiDBK's github activity graph](https://raw.githubusercontent.com/HuiDBK/HuiDBK/output/github-contribution-grid-snake.svg)
