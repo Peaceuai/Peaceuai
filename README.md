@@ -44,6 +44,9 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="20" height="20"/> </a> <a> Postman </a>
 </p>
 
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+
 <h3 align="left"> :trophy:  Github Profile Trophy  </h3>
 
 [![trophy](https://trophy.ryglcloud.net/?username=Peaceuai)](https://github.com/ryo-ma/github-profile-trophy)
