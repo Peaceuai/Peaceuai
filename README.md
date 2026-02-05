@@ -3,7 +3,7 @@
 <p align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /></p>
 
 <p align="center">
-  <a href=""><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
+  <a href=""><img src="https://img.shields.io/badge/X-推特-black" /></a>&emsp;
   <a href="https://www.youtube.com/@peaceuai"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
   <a href="https://blog.csdn.net/Peaceuai"><img src="https://img.shields.io/badge/CSDN-博客-fc5531" /></a>&emsp;
   <a href=""><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
