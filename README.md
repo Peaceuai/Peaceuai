@@ -48,4 +48,6 @@
 
 [![trophy](https://trophy.ryglcloud.net/?username=Peaceuai)](https://github.com/ryo-ma/github-profile-trophy)
 
+<h3 align="left"> :calendar:  Github Contributions  </h3>
+
 ![HuiDBK's github activity graph](https://raw.githubusercontent.com/Peaceuai/Peaceuai/output/github-contribution-grid-snake.svg)
