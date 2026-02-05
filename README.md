@@ -44,6 +44,8 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="20" height="20"/> </a> <a> Postman </a>
 </p>
 
+<h3 align="left"> :computer:  Github Stats  </h3>
+
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
 
