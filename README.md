@@ -21,7 +21,7 @@
 - 📫 How to reach me? Email: jimpeaceuai@gmail.com
 
 <h3 align="left">Languages</h3>
-<p align="left">
+<p align="">
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20" height="20"/> </a> <a> Java </a> &nbsp &nbsp
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> </a> <a> Python </a>&nbsp &nbsp 
 <a href="https://html.spec.whatwg.org/multipage" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="20" height="20"/> </a> <a> HTML5 </a>&nbsp &nbsp 
